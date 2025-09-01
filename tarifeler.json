@@ -4,7 +4,7 @@
     "baseFee": 25.0,
     "perKg": 12.0,
     "fuelSurchargePct": 0.10,
-    "minCharge": 60.0,
+    "minCharge": 999,
     "volumetricDivisor": 5000.0
   },
   {
@@ -24,3 +24,4 @@
     "volumetricDivisor": 5000.0
   }
 ]
+
